@@ -1,0 +1,2 @@
+/mnt/e/Study/01ParallelPrograming
+/mnt/e/Study/01ParallelPrograming/01Week1/homework1-gemm
